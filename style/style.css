@@ -1,0 +1,56 @@
+/* --------------utilities---------- */
+html {
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+}
+
+.button-color {
+  background-color: #e76f51;
+}
+.section-title {
+  font-family: "Poppins", sans-serif;
+  font-size: 3rem;
+}
+/* google fonts url------ */
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lobster&display=swap");
+
+/* header section css-------------------------- */
+header {
+  background-color: #264653;
+  font-family: "Poppins", sans-serif;
+}
+#purchase {
+  background-color: #e76f51;
+}
+
+.featured-bike h6 {
+  color: #e76f51;
+  font-size: 1rem;
+}
+.grey {
+  filter: grayscale(100%);
+}
+#change {
+  color: #e76f51;
+}
+/* happy client section css---------------------------- */
+.filled {
+  color: #e76f51;
+}
+.unfilled {
+  color: white;
+}
+.happy-client h4 {
+  color: #23a6f0;
+}
+/* survey section starts here ----------------*/
+.survey-title {
+  font-family: "Lobster", cursive;
+}
+.survey a:hover {
+  transform: scale(1.3);
+  transition: transform 2s;
+}
