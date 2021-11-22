@@ -1,7 +1,6 @@
 /* --------------utilities---------- */
 html {
   scroll-behavior: smooth;
-  overflow-x: hidden;
 }
 
 .button-color {
